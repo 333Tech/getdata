@@ -1,10 +1,50 @@
 {
     "name": "Coding & Crypto NFT",
-    "symbol": "DELTA",
+    "symbol": "ALPHA",
     "description": "A test for our NFT example.",
     "seller_fee_basis_points": 5,
     "external_url": "",
     "edition": "",
     "background_color": "000000",
-    "image": "https://loveshayariimages.in/wp-content/uploads/2021/10/hd-smile-4k-Uniqe-Whatsapp-Dp-Images.jpg"
+    "image": "https://loveshayariimages.in/wp-content/uploads/2021/10/hd-smile-4k-Uniqe-Whatsapp-Dp-Images.jpg",
+    "benefits": [
+    {
+      "benefit": "benefit_01",
+      "description": "Lunch with CEO"
+    },
+    {
+      "benefit": "benefit_01",
+      "description": "Mint new NFT"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Skyline"
+    },
+    {
+      "trait_type": "Statue",
+      "value": "Statue"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "Magnifying Glass"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Orange Cap"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Orange Code"
+    },
+    {
+      "trait_type": "Upper Arm Accessories",
+      "value": "None"
+    }
+  ]
 }
