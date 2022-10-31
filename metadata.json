@@ -1,12 +1,12 @@
 {
-    "name": "Coding & Crypto NFT",
-    "symbol": "ALPHA",
-    "description": "A test for our NFT example.",
+    "name": "Surpass Award",
+    "symbol": "Syne",
+    "description": "Surpass Award testing.",
     "seller_fee_basis_points": 5,
     "external_url": "",
     "edition": "",
     "background_color": "000000",
-    "image": "award.PNG",
+    "image": "./award.PNG",
     "benefits": [
     {
       "benefit": "benefit_01",
