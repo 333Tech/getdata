@@ -2,7 +2,7 @@
     "name": "Surpass Award",
     "symbol": "Syne",
     "description": "Surpass Award testing.",
-    "seller_fee_basis_points": 5,
+    "seller_fee_basis_points": 1,
     "external_url": "",
     "edition": "",
     "background_color": "000000",
@@ -21,30 +21,6 @@
     {
       "trait_type": "Background",
       "value": "Skyline"
-    },
-    {
-      "trait_type": "Statue",
-      "value": "Statue"
-    },
-    {
-      "trait_type": "Arm",
-      "value": "Magnifying Glass"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Orange Cap"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Orange Code"
-    },
-    {
-      "trait_type": "Upper Arm Accessories",
-      "value": "None"
     }
   ]
 }
