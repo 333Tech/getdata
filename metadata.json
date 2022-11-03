@@ -2,7 +2,7 @@
     "name": "Surpass Award",
     "symbol": "Syne",
     "description": "Surpass Award testing.",
-    "seller_fee_basis_points": 1,
+    "seller_fee_basis_points": 5,
     "external_url": "",
     "edition": "",
     "background_color": "000000",
