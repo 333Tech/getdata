@@ -5,7 +5,7 @@
     "seller_fee_basis_points": 5,
     "external_url": "https://www.synechron.com",
     "edition": "",
-    "background_color": "000000",
+    "background_color": "#000000",
     "image": "https://raw.githubusercontent.com/333Tech/getdata/main/award.PNG",
     "benefits": [
     {
