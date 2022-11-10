@@ -14,13 +14,24 @@
     },
     {
       "benefit": "benefit_02",
-      "description": "Buy Pizza"
+      "description": "Amazon Voucher"
     }
   ],
   "attributes": [
     {
       "trait_type": "Background",
       "value": "Yellow"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Special for look"
     }
-  ]
+  ],
+  "creators": [
+      {
+        "address": "DEejPEXTuUCdcPsXBiKj4TJ9Yoc8MmjnSuNxGhtwEi3U",
+        "share": 100
+      }
+    ]
+  }
 }
