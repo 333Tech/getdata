@@ -1,9 +1,9 @@
 {
     "name": "Surpass Award",
     "symbol": "Syne",
-    "description": "Surpass Award testing.",
+    "description": "Surpass award for employee",
     "seller_fee_basis_points": 5,
-    "external_url": "",
+    "external_url": "https://www.synechron.com",
     "edition": "",
     "background_color": "000000",
     "image": "https://raw.githubusercontent.com/333Tech/getdata/main/award.PNG",
@@ -20,7 +20,21 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Skyline"
+      "value": "BlackSilver"
+    },
+    {
+      "trait_type": "Award",
+      "value": "Award"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Special for look"
+    },
+  ],
+  "creators": [
+    {
+      "address": "DEejPEXTuUCdcPsXBiKj4TJ9Yoc8MmjnSuNxGhtwEi3U",
+      "share": 100
     }
   ]
 }
