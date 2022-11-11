@@ -1,6 +1,6 @@
 {
     "name": "Syne Coin",
-    "symbol": "Syne",
+    "symbol": "$Syne",
     "description": "Syne Coin for Rewards.",
     "seller_fee_basis_points": 5,
     "external_url": "",
