@@ -3,7 +3,7 @@
     "symbol": "Syne",
     "description": "Surpass award for employee.",
     "seller_fee_basis_points": 5,
-    "external_url": "https://www.synechron.com",
+    "external_url": "",
     "edition": "",
     "background_color": "#000000",
     "image": "https://raw.githubusercontent.com/333Tech/getdata/main/award.PNG",
@@ -14,7 +14,7 @@
     },
     {
       "benefit": "benefit_01",
-      "description": "Mint new NFT"
+      "description": "Give a Syne Coin"
     }
   ],
   "attributes": [
