@@ -1,0 +1,36 @@
+{
+    "name": "Surpass Award",
+    "symbol": "Syne",
+    "description": "Surpass award for employee.",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://raw.githubusercontent.com/333Tech/getdata/main/award.PNG",
+    "benefits": [
+		{
+		  "benefit": "benefit_01",
+		  "description": "Lunch with CEO"
+		},
+		{
+		  "benefit": "benefit_02",
+		  "description": "Received Syne Coin."
+		}
+	 ],
+	 "attributes": [
+		{
+		  "trait_type": "Background",
+		  "value": "Yellow"
+		},
+		{
+		  "trait_type": "Font",
+		  "value": "Special for look"
+		}
+	 ],
+	 "creators": [
+		{
+			"address": "DEejPEXTuUCdcPsXBiKj4TJ9Yoc8MmjnSuNxGhtwEi3U",
+			"share": 100
+		}
+	 ]
+}
