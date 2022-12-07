@@ -1,0 +1,40 @@
+{
+  "name": "Start Award",
+  "symbol": "Syne",
+  "description": "Start Award for employee",
+  "seller_fee_basis_points": 5,
+  "external_url": "",
+  "edition": "",
+  "background_color": "000000",
+  "image": "https://raw.githubusercontent.com/333Tech/getdata/main/resources/startaward.png",
+  "benefits": [
+    {
+      "benefit": "benefit_01",
+      "description": "Lunch with CEO"
+    },
+    {
+      "benefit": "benefit_02",
+      "description": "Received Syne Coin"
+    },
+    {
+      "benefit": "benefit_03",
+      "description": "Digital Certificate"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Special for look"
+    }
+  ],
+  "creators": [
+    {
+      "address": "8zKCRUc65ryMVgtAHT7skXU4Wc89fuSYrQzyfhmMRTTp",
+      "share": 100
+    }
+  ]
+}

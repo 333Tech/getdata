@@ -1,0 +1,36 @@
+{
+	"name": "Syne Coin",
+	"symbol": "$SYNE",
+	"description": "Syne Coin for Surpass Award",
+	"seller_fee_basis_points": 5,
+	"external_url": "",
+	"edition": "",
+	"background_color": "000000",
+	"image": "https://raw.githubusercontent.com/333Tech/getdata/main/resources/synecoin.png",
+	"benefits": [
+		{
+			"benefit": "benefit_01",
+			"description": "Usable"
+		},
+		{
+			"benefit": "benefit_02",
+			"description": "Payment to Vendor"
+		}
+	],
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Yellow"
+		},
+		{
+			"trait_type": "Font",
+			"value": "Special for look"
+		}
+	],
+	"creators": [
+		{
+			"address": "8zKCRUc65ryMVgtAHT7skXU4Wc89fuSYrQzyfhmMRTTp",
+			"share": 100
+		}
+	]
+}

@@ -1,20 +1,20 @@
 {
     "name": "Syne Coin",
-    "symbol": "$Syne",
-    "description": "Syne Coin for Rewards.",
+    "symbol": "$SYNE",
+    "description": "Syne Coin for Start Award",
     "seller_fee_basis_points": 5,
     "external_url": "",
     "edition": "",
     "background_color": "000000",
-    "image": "https://raw.githubusercontent.com/333Tech/getdata/main/SyneCoin.png",
+    "image": "https://raw.githubusercontent.com/333Tech/getdata/main/resources/synecoin.png",
     "benefits": [
 		{
-		  "benefit": "benefit_01",
-		  "description": "Lunch with CEO"
+			"benefit": "benefit_01",
+			"description": "Usable"
 		},
 		{
-		  "benefit": "benefit_02",
-		  "description": "Amazon Voucher"
+			"benefit": "benefit_02",
+			"description": "Payment to Vendor"
 		}
 	 ],
 	 "attributes": [
@@ -29,7 +29,7 @@
 	 ],
 	 "creators": [
 		{
-			"address": "DEejPEXTuUCdcPsXBiKj4TJ9Yoc8MmjnSuNxGhtwEi3U",
+			"address": "8zKCRUc65ryMVgtAHT7skXU4Wc89fuSYrQzyfhmMRTTp",
 			"share": 100
 		}
 	 ]
